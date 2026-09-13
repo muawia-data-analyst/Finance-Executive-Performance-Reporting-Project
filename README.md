@@ -20,7 +20,7 @@ Executive teams need a clear, fast view of financial performance not raw transac
 - Separated Revenue and Expense variance analysis to distinguish genuine cost overrun from strong business performance
 - 6 Pivot Tables analyzing variance by Department, Region, Expense Category, Business Unit, and Month
 - A monthly operational tracker across the full 20-month period
-- A 3-page interactive Power BI dashboard featuring an Area Chart, Gauge Chart, Waterfall Chart, a Matrix with conditional formatting, and a Treemap — designed specifically for executive-level consumption
+- A 3-page interactive Power BI dashboard featuring an Area Chart, Gauge Chart, Waterfall Chart, a Matrix with conditional formatting, and a Treemap designed specifically for executive-level consumption
 - Drill-down analysis identifying the expense category with the most disproportionate budget overrun
 - Ad hoc analysis identifying the highest-risk Department-Category combinations for cost control
 - Documented findings and actionable recommendations for leadership
