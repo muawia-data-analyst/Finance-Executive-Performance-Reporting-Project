@@ -1,7 +1,7 @@
 # Finance & Executive Performance Reporting Project
 
 ## Overview
-A Reporting Analyst project delivering executive-level financial performance analysis, covering budget vs. actual variance across departments, regions, business units, and expense categories. Built using Microsoft Excel and Power BI, spanning a 20-month reporting period (January 2025 – August 2026).
+A Reporting Analyst project delivering executive level financial performance analysis, covering budget vs. actual variance across departments, regions, business units, and expense categories. Built using Microsoft Excel and Power BI, spanning a 20-month reporting period (January 2025 – August 2026).
 
 ## Tools Used
 Microsoft Excel · Power BI · Power Query · DAX
